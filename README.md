@@ -3,7 +3,7 @@ To get R and RStudio :- https://posit.co/download/rstudio-desktop/
 <br>
 To install the various packages:- https://cran.r-project.org/
 <br>
-Or type the following code in your RStudio to get the pacman package:-<br>
+Or type the following code in your RStudio to get the pacman package that will install all the other packages required:-<br>
 pacman::p_load(pacman, dplyr, GGally, ggplot2, ggthemes, ggvis, httr, lubridate, plotly, rio, rmarkdown, shiny, stringr, tidyr)
 
 To load the in-built datasets:
